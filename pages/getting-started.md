@@ -1,25 +1,27 @@
 ---
 layout: page
 show_meta: false
-title: "Getting Started"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+title: "基地简介"
+subheadline: " "
+teaser: "经东特电子有限公司与华中师范大学计算机学院相关教师的密切沟通，双方各自利用平台优势，拟定了如下合作方式：一是企业与高校院所联合开发项目，企业利用其技术优势培养参与人员的实践能力。二是企业委托高校院所开展技术攻关，充分利用学校的学术优势展开相关项目的攻关。"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/getting-started/"
 ---
-1. Open `_config.yml` and work it through, it's well documented
-2. Add your own `logo.png` to `/images/`.
-3. Open `_data/socialmedia.yml` and add your own social media links.
-4. Open `_data/navigation.yml` and customize your navigation.
-5. Open `_data/language.yml` and translate the theme if necessary.
-6. Open `_data/services.yml` and customize links in the footer.
-7. Open `_data/network.yml` and customize links in the footer.
-8. Open `_data/authors.yml` and edit author information and set default author in `config.yml.
-9. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-10. Make it yours and add your own content.
+###合作项目：
+2013年5月，华中师范大学计算机学院赵甫哲副教授与东特电子有限公司签订了合作项目《自动化办公软件的设计与开发》，项目经费：10万元。    
+2013年8月，华中师范大学计算机学院马长林副教授与东特电子有限公司签订了合作项目《移动传感器网络系统优化控制算法研究与开发》，项目经费：10万元。
 
-<a class="radius button small" href="{{ site.url }}/documentation/">Check out the documentation for all the tricks ›</a>
+###合作方式：
+经东特电子有限公司与华中师范大学计算机学院相关教师的密切沟通，双方各自利用平台优势，拟定了如下合作方式：一是企业与高校院所联合开发项目，企业利用其技术优势培养参与人员的实践能力。二是企业委托高校院所开展技术攻关，充分利用学校的学术优势展开相关项目的攻关。     
+转化的核心技术所应用的产业与行业为物流、环保、农业、人体健康、卫生健康监护、养老福利院、基础设施的监护、物联网、单位办公自动化等产业。    
+其核心技术的应用为IT软件产业的发展起到了推动的作用，其转化成的物联网相关技术为智慧城市建设，环境监测保护提供了良好的应用开发平台。
+
+###主要成效：
+
+* 社会效益：该基地将促进洪山区科研人才稳定和合理流动、科技资源得到更好的利用；促进研究开发、成果转化和产业化链条的形成；同时洪山区基地项目研究开发以需求为导向，培养人才，促进学校教学发展和学科建设。
+* 经济效益：基地项目完成后，将成果应用于物流、环保、农业、人体健康、卫生健康监护、养老福利院、基础设施的监护、物联网等行业。如能获得推广，办公自动化项目将产生每年100万元、传感技术应用项目将产生400万元经济效益。
+
+<a class="radius button small" href="{{ site.url }}/documentation/">查看我们的研究成果 ›</a>
 
 
- [1]: {{ site.url }}/documentation/

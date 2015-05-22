@@ -1,51 +1,30 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
+title: "关于我们"
+subheadline: "洪山区传感网络技术产学研基地"
 show_meta: false
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: "为IT软件产业的发展起到推动作用，转化物联网相关技术为智慧城市建设，为环境监测保护提供良好的应用开发平台。"
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+## 基地牵头单位基本情况
 
-
-## Features
-
-* Responsive Gallery, Videos, Grid, Typography,...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
+华中师范大学是中国教育部直属重点综合性师范大学，国家“211工程”重点建设的大学，国家教师教育“985”优势学科创新平台建设高校，是国家培养中、高等学校师资和其他高级专门人才的重要基地。近五年，学校科研项目总经费快速增长，自然科学研究方面，学校主持编制《教育信息化十年规划》，领跑教育信息化领域；主持或参与国家科技支撑计划重大项目、国家科技重大专项课题、973计划课题、863计划课题20余项；获国家创新群体支持1项；获得国家杰出青年基金5项；2012年理科获得各类科研项目230余项，获发明专利授权44项，发表SCIE、EI、ISTP三大检索论文600余篇，并有一批高水平论文相继在数学、物理、化学、生物等领域的国际权威学术期刊发表。       
+华师计算机学院现有13位教授、40多位副教授及高工，20位有博士学位的中青年教师。科研工作主要集中于与信息科学新能源有关的高新技术领域，如新型计算机网络技术、新型自然语言处理技术等。学院承担了多播网络、多媒体网络、传感网络等领域的国家自然科学基金项目8项，自然语言处理等领域的重大社科项目4项。学院还与北大青鸟等企业建立了长期的合作关系，掌握了计算机领域相关的关键技术，具有较强的科研研发能力。
 
 
 
-## I got inspired by...
+## 基地合作单位基本情况
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+武汉东特电子有限公司生产经营的主要领域为：集电路板表面贴装（SMT）和直插件焊接（THT），电子产品组装调试包装的生产企业。
+该企业生产经营的产业市场竞争力为：公司拥有一批先进的SMT生产设备（GKG-G5全自动钢网印刷机、SM421S贴片机、RF-820-LF全热风回流焊机、SB-08压接机等）以及一流的全自动电子装联生产线和相配套的THT检测设备（全自动链传式直插生产HB-500A，以及全自动皮带式总装生产线。全自动双波峰焊接机AIS-30D21，全自动元件成型机HB-2）。公司在强化检测手段的基础上，大胆革新技术，最新推出立体凸起键盘、手感键盘、有色、无色透明显示窗和多层组合电路的新工艺。可为顾客提供合理的全程式加工（OEM）。       
+1996年经国家仪表元件器质量监督检验中心检测指标合格，并首批通过中国薄膜开关专业委员会认证质量论定合格，2009年全面通过了ISO9001：2008国际质量体系认证。      
+该企业生产经营的财务状况为：
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+* 2012年该公司销售额：3000万元。
+* 截至2013年10月31日止，2013年公司销售额：3100万元。
 
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: #
- [9]: #
- [10]: #
+#### 请持续关注我们的工作！

@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Search"
+title: "搜索"
 permalink: "/search/"
 ---
 

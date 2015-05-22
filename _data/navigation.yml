@@ -14,8 +14,8 @@
     url: "/design/grid/"
   - title: "自动化办公软件"
     url: "/design/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
+#  - title: "Page/Post"
+#    url: "/design/page/"
 
 - title: "研究团队"
   url: "/headers/"
@@ -25,8 +25,8 @@
     url: "/design/header-full-width-image/"
   - title: "马长林"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
+#  - title: "Header with image and color"
+#    url: "/design/header-image-color/"
 
 - title: 研究成果
   url: "/documentation/"
@@ -37,14 +37,14 @@
   - title: "自动化办公软件"
     url: "/changelog/"
 
-- title: 博客
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: 博客
-    url: "/blog/"
-  - title: "博客归档"
-    url: "/blog/archive/"
+#- title: 博客
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: 博客
+#    url: "/blog/"
+#  - title: "博客归档"
+#    url: "/blog/archive/"
 
 - title: "搜索"
   url: "/search/"
