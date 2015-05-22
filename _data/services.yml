@@ -1,16 +1,11 @@
-- menu_name: "Services"
+- menu_name: "服务"
 
-- name: "Contact"
+- name: "联系我们"
   url: "/contact/"
   class: "services-contact"
-  title: "Contact"
+  title: "联系我们"
 
-- name: "RSS"
+- name: "订阅"
   url: "/feed.xml"
   class: "rss-link"
-  title: "Subscribe to RSS"
-
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  class: "sitemap-link"
-  title: "Sitemap for Google Webmastertools"
+  title: "RSS"
