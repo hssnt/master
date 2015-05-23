@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "研究成果"
-meta_title: " "
 subheadline: " "
 teaser: "自动化办公软件"
 header:
