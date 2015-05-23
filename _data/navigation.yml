@@ -14,17 +14,15 @@
     url: "/design/grid/"
   - title: "自动化办公软件"
     url: "/design/typography/"
-#  - title: "Page/Post"
-#    url: "/design/page/"
 
 - title: "研究团队"
   url: "/headers/"
   side: left
   dropdown:
   - title: "赵甫哲"
-    url: "/design/header-full-width-image/"
+    url: "/teacher/header-full-width-image/"
   - title: "马长林"
-    url: "/design/header-image-pattern/"
+    url: "/teacher/header-image-pattern/"
 #  - title: "Header with image and color"
 #    url: "/design/header-image-color/"
 

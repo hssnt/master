@@ -18,10 +18,10 @@
 #  class: icon-soundcloud
 #  title: "Sounds und Downloads und mehr"
 
-- name: GitHub
-  url: http://github.com/edwardbx
-  class: icon-github
-  title: Give Me a Star
+#- name: GitHub
+#  url: http://github.com/edwardbx
+#  class: icon-github
+#  title: Give Me a Star
 
 #- name: Instagram
 #  url: http://instagram.com/phlowmedia
