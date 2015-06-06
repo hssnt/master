@@ -22,5 +22,5 @@ widget-3:
     title: "中国教育学会会长钟秉林来校作报告"
     url: 'http://hssnt.github.io/master/getting-started/'
     text: '4月1日，中国教育学会会长、原北京师范大学校长钟秉林教授在科学会堂作了题为《大学的内涵发展与质量建设》的报告。校领导及全体中层干部聆听报告。报告会由校党委书记马敏主持。'
-    image: github-303x182.jpg
+    image: unsplash_9-302x182.jpg
 ---
